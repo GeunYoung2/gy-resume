@@ -1,7 +1,7 @@
 ---
 pagetitle: 'Resume - Daniel S. Marshall'
 author: 'Daniel S. Marshall'
-date: 2017-01-01
+date: 2017-01-02
 ---
 
 # Daniel S. Marshall
